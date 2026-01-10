@@ -1,43 +1,30 @@
 # Algorithms for Large-Scale Optimization
 
-Code companion for *Algorithms for Large-Scale Optimization* by Georgios Paschos.
+Code companion for the book by Georgios Paschos.
 
 ## Quick Start
 
-Clone the repository and install dependencies:
+Click any `.ipynb` file in this repository to view it. GitHub will show an "Open in Colab" button to run it interactively.
 
-    git clone https://github.com/YOUR_USERNAME/large-scale-optimization.git
-    cd large-scale-optimization
-    pip install -r requirements.txt
+Example: 
 
-Run an example:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpasxos/large-scale-optimization/blob/main/ch01_resource_allocation.ipynb)
 
-    python ch01_introduction/resource_allocation.py
+## Contents
 
-## Structure
-
-| File | Description |
-|-----------|-------------|
-| ch01_resource_allocation/ | Jupyter notebook from Chapter 1 |
-| ch02_convexity_quiz/ | Jupyter notebook from Chapter 2 |
-.
-.
+| Chapter | Notebook | Topic |
+|---------|----------|-------|
+| 1 | ch01_resource_allocation.ipynb | Introduction, LP basics |
+| 2 | ch02_convexity.ipynb | Convex sets and functions |
+| 3 | ch03_gradient_descent.ipynb | First-order methods |
 
 ## Requirements
 
 - Python 3.9+
-- NumPy
-- SciPy
-- CVXPY
-- Matplotlib
+- NumPy, SciPy, CVXPY, Matplotlib
+
+All packages are pre-installed in Google Colab.
 
 ## License
 
-MIT License - see LICENSE file for details.
-
-
-## Notebooks
-
-Click the badge to open in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpasxos/large-scale-optimization/blob/main/ch01_resource_allocation.ipynb)
+MIT License
