@@ -33,3 +33,8 @@ Run an example:
 ## License
 
 MIT License - see LICENSE file for details.
+
+## Notebooks
+
+Click the badge to open in Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpasxos/large-scale-optimization/blob/main/ch01_introduction.ipynb)
