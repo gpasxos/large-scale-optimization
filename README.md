@@ -16,11 +16,12 @@ Run an example:
 
 ## Structure
 
-| Directory | Description |
+| File | Description |
 |-----------|-------------|
-| ch01_introduction/ | Chapter 1: Introduction |
-| ch02_convexity/ | Chapter 2: Convexity |
-| notebooks/ | Jupyter notebooks |
+| ch01_resource_allocation/ | Jupyter notebook from Chapter 1 |
+| ch02_convexity_quiz/ | Jupyter notebook from Chapter 2 |
+.
+.
 
 ## Requirements
 
@@ -34,7 +35,9 @@ Run an example:
 
 MIT License - see LICENSE file for details.
 
+
 ## Notebooks
 
 Click the badge to open in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpasxos/large-scale-optimization/blob/main/ch01_introduction.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpasxos/large-scale-optimization/blob/main/ch01_resource_allocation.ipynb)
